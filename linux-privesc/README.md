@@ -1,7 +1,9 @@
 # TryHackMe: Linux PrivEsc
 **Room URL:** https://tryhackme.com/room/linuxprivesc  
-**Completed on:** July 2024  
-**Time spent:** 90 minutes
+**Completed on:** 2024-07-09 
+**Time spent:** ~2 hours
+
+**Badge / Profile:** https://tryhackme.com/p/MdukuziWaWadukuzi
 
 ## Objective
 Practice Linux privilege escalation techniques on a Debian virtual machine. Enumerate system configurations and exploit misconfigurations to obtain root access.
