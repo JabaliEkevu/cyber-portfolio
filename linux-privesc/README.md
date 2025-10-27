@@ -45,9 +45,12 @@ The escalation was possible because a misconfigured SUID binary allowed regular 
 - Regular permission audits
 
 ## What I learned
-- How to enumerate Linux users and SUID binaries
-- How to use sudo -l to detect escalation paths
-- Why least-privilege permissions are critical to server security
+## What I learned
+- How to systematically enumerate Linux hosts to identify privilege escalation paths
+- How SUID binaries and misconfigured sudo rules can allow unauthorized access
+- How to think like a defender by identifying misconfigurations before they are exploited
+- Why least-privilege permissions and regular audits are essential for secure Linux systems
+
 
 ## Artifacts
 Screenshots:
