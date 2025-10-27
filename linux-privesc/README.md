@@ -1,4 +1,6 @@
 # TryHackMe: Linux PrivEsc
+This hands-on room demonstrates my ability to investigate Linux systems, identify a privilege escalation vulnerability, and apply practical defense recommendations aligned with SOC analyst responsibilities.
+
 **Room URL:** https://tryhackme.com/room/linuxprivesc  
 **Completed on:** 2024-07-09
 **Time spent:** ~2 hours
