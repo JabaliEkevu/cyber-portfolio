@@ -35,10 +35,9 @@ Practice Linux privilege escalation techniques on a Debian virtual machine. Enum
    - Retrieved flag: `/root/root.txt` (do not paste the contents)
 
 ## Findings / Evidence
-- Vulnerability: (short description)
-- Output showing escalation success:
-  - `whoami` = root
-  - (Screenshot references below)
+## Findings / Evidence
+The escalation was possible because a misconfigured SUID binary allowed regular users to execute a process with root privileges. By identifying this binary during enumeration and executing it, I elevated privileges to root and accessed sensitive system files such as `/root/root.txt`. This demonstrates why SUID binaries should be tightly controlled and regularly audited.
+
 
 ## Conclusion / Remediation
 - Remove unnecessary SUID binaries
