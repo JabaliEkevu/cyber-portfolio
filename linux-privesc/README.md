@@ -49,6 +49,6 @@ Practice Linux privilege escalation techniques on a Debian virtual machine. Enum
 - Why least-privilege permissions are critical to server security
 
 ## Artifacts
-Screenshots to be added:
-- `screenshots/step1.png`
-- `screenshots/step2.png`
+Screenshots:
+- `step1.png`
+- `step2.png`
