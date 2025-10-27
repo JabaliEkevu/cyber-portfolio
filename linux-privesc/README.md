@@ -1,6 +1,7 @@
 # TryHackMe: Linux PrivEsc
 **Room URL:** https://tryhackme.com/room/linuxprivesc  
-**Completed on:** 2024-07-09 
+**Completed on:** 2024-07-09
+
 **Time spent:** ~2 hours
 
 **Badge / Profile:** https://tryhackme.com/p/MdukuziWaWadukuzi
